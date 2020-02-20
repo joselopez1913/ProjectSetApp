@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ProjectSetApp</string>
+
+    <string name="userText">Usuario</string>
+    <string name="passwordText">Contraseña</string>
+    <string name="loginButton">Ingresar</string>
+    <string name="registerButton">Registrarme</string>
+    <string name="welcomeText">Bienvenido a SetApp</string>
+
+    <string name="registerText">Registrar usuario en SetApp</string>
+    <string name="nameRegisterText">Nombre</string>
+    <string name="emailRegisterText">Email</string>
+    <string name="phoneRegisterText">Teléfono</string>
+    <string name="passwordRegisterText">Contraseña</string>
+    <string name="BRegisterButton">Registrarme</string>
+    <string name="backRegisterButton">Atrás</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SetApp</string>
+    <string name="nav_header_subtitle">Nombre Usuario</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesión</string>
+
+    <string name="menu_home">Eventos</string>
+    <string name="menu_gallery">Clases</string>
+    <string name="menu_slideshow">Reserva Canchas</string>
+    <string name="menu_tools">Reserva Dotacion</string>
+    <string name="text_events">No hay eventos programados</string>
+
+
+
+
+</resources>
